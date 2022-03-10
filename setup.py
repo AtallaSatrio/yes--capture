@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='yes_capture',
     version='1.0.0',
-    author='Jordi Yaputra',
+    author='Atalla Satrio Mahardika',
     packages=['yesc'],
     install_requires=['tensorflow', 'pandas', 'matplotlib', 'click', 'pydrive', 'ipykernel', 
                       'questionary', 'gdown', 'opencv-python', 'mediapipe', 'python-dotenv'],
